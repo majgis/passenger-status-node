@@ -1,6 +1,6 @@
 {
   "name": "passenger-status-node",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A wrapper for passenger-status that outputs data on all passenger instances or specific instances based on searching the supergroup name.",
   "main": "index.js",
   "scripts": {
